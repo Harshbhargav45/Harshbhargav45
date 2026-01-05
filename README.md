@@ -76,6 +76,17 @@ This is my **Proof of Work (PoW)** — a concise overview of repositories I’ve
 | **Tech** | Rust |
 | **Repo** | https://github.com/Harshbhargav45/rust-projects |
 
+---
+
+### 📦 Rustlings
+| Field | Details |
+|------|--------|
+| **Description** | Rust exercises & challenges |
+| **Focus** | Core Rust concepts |
+| **Tech** | Rust |
+| **Repo** | https://github.com/Harshbhargav45/rustlings1 |
+
+---
 
 ### 📦 Ackee
 | Field | Details |
@@ -87,11 +98,22 @@ This is my **Proof of Work (PoW)** — a concise overview of repositories I’ve
 
 ---
 
+### 📦 PokeChess
+| Field | Details |
+|------|--------|
+| **Description** | On-chain turn-based game logic using Anchor |
+| **Concepts** | Game state accounts, instruction flow, validation |
+| **Tech** | Rust · Anchor · Solana |
+| **Repo** | https://github.com/Harshbhargav45/poke-chess |
+
+---
+
 ## 🧠 Core Skills Demonstrated
 - Solana account model & PDAs  
 - Anchor framework  
 - CPI & access control  
 - SPL tokens & NFTs  
-- Rust for on-chain programs  
+- On-chain game logic  
+- Rust for smart contracts  
 
 ---
