@@ -1,34 +1,97 @@
-# Hi there, I'm Harsh Bhargava 👋
+# 👋 Hi, I’m Harsh Bhargava
 
-🚀\*\* MERN Stack Learner | Rust Explorer\*\*
-💡 Passionate about building clean, pixel-perfect UIs & scalable web apps.
+**Solana| Anchor · Rust · Web3**
 
----
-
-## 🛠 Tech Stack
-
-* **Frontend:** HTML, CSS, JavaScript, React, Next.js
-* **Backend:** Node.js, Express.js, MongoDB
+This is my **Proof of Work (PoW)** — a concise overview of repositories I’ve built while learning and building on Solana.
 
 ---
 
-## 📈 GitHub Stats
+## 🧾 Proof of Work
+
+### 📦 TurbinePB_Q425_Harshbhargav45
+| Field | Details |
+|------|--------|
+| **Description** | Monorepo of Solana, Anchor, NFT, and Rust projects |
+| **Focus** | Escrow, Vaults, NFTs, SPL Tokens, Rust |
+| **Tech** | Rust · Anchor · Solana |
+| **Repo** | https://github.com/Harshbhargav45/TurbinePB_Q425_Harshbhargav45 |
 
 ---
 
-## 🌱 Currently Learning
-
-* Mastering **Core JavaScript** concepts
-* Diving into **Rust** 
-
----
-
-## 📫 Let's Connect
-
-* **Email:** [harshbhargav11966@gmail.com](mailto:harshbhargav11966@gmail.com)
-* **Portfolio:** *coming soon*
+### 📦 Vault
+| Field | Details |
+|------|--------|
+| **Description** | SOL / token vault with deposit & withdraw logic |
+| **Concepts** | PDAs, lamports, access control |
+| **Tech** | Rust · Anchor |
+| **Repo** | https://github.com/Harshbhargav45/vault |
 
 ---
 
-💬 *"Code is like poetry — but with fewer metaphors and more semicolons."*
-   
+### 📦 Escrow
+| Field | Details |
+|------|--------|
+| **Description** | Secure escrow program for token exchange |
+| **Concepts** | CPI, ownership, state validation |
+| **Tech** | Rust · Anchor |
+| **Repo** | https://github.com/Harshbhargav45/Escrow |
+
+---
+
+### 📦 NFT Marketplace
+| Field | Details |
+|------|--------|
+| **Description** | On-chain NFT listing and purchase logic |
+| **Concepts** | NFT accounts, transfers |
+| **Tech** | Rust · Anchor · Metaplex |
+| **Repo** | https://github.com/Harshbhargav45/nft_markeplace |
+
+---
+
+### 📦 Dragonball NFTs
+| Field | Details |
+|------|--------|
+| **Description** | NFT minting project |
+| **Concepts** | Metadata, minting flow |
+| **Tech** | Rust · Metaplex |
+| **Repo** | https://github.com/Harshbhargav45/dragonball-nfts |
+
+---
+
+### 📦 Token Mint
+| Field | Details |
+|------|--------|
+| **Description** | Custom SPL token minting program |
+| **Concepts** | Mint authority, token supply |
+| **Tech** | Rust · SPL Token |
+| **Repo** | https://github.com/Harshbhargav45/token_mint |
+
+---
+
+### 📦 Rust Projects
+| Field | Details |
+|------|--------|
+| **Description** | Rust practice projects |
+| **Focus** | Ownership, structs, enums |
+| **Tech** | Rust |
+| **Repo** | https://github.com/Harshbhargav45/rust-projects |
+
+
+### 📦 Ackee
+| Field | Details |
+|------|--------|
+| **Description** | Task-based Solana & Anchor assignments |
+| **Focus** | Account handling, instruction flow |
+| **Tech** | Rust · Anchor · Solana |
+| **Repo** | https://github.com/Harshbhargav45/Ackee |
+
+---
+
+## 🧠 Core Skills Demonstrated
+- Solana account model & PDAs  
+- Anchor framework  
+- CPI & access control  
+- SPL tokens & NFTs  
+- Rust for on-chain programs  
+
+---
