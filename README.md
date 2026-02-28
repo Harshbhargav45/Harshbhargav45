@@ -31,6 +31,18 @@ This is my **Proof of Work (PoW)** — a concise overview of repositories I’ve
 
 ---
 
+### 📦 TurbinePB_Q126_Harshbhargav45
+
+| Field | Details |
+|------|--------|
+| **Description** | Monorepo containing advanced Solana & Anchor development projects |
+| **Projects** | DAO Voting · Staking · AMM · Quadratic Funding · Dice · Escrow · Vault |
+| **Concepts** | PDAs, CPI, Governance logic, Constant Product AMM, QF algorithm |
+| **Tech** | Rust · Anchor · Solana · Surfpool · Next.js |
+| **Repo** | https://github.com/Harshbhargav45/TurbinePB_Q126_Harshbhargav45 |
+
+---
+
 ### 📦 TurbinePB_Q425_Harshbhargav45
 
 | Field | Details |
