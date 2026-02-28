@@ -56,7 +56,7 @@ This is my **Proof of Work (PoW)** — a concise overview of repositories I’ve
 
 ---
 
-### 📦 TurbinePB_Q126_Harshbhargav45
+### 📦 Turbine Builders_Q126_Harshbhargav45
 
 | Field | Details |
 |------|--------|
@@ -67,8 +67,7 @@ This is my **Proof of Work (PoW)** — a concise overview of repositories I’ve
 
 ---
 
-### 🎮 PokeChess (Featured Project)
-
+### 🎮 PokeChess
 | Field | Details |
 |------|--------|
 | **Description** | On-chain turn-based game logic implemented using Anchor |
