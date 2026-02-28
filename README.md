@@ -20,6 +20,53 @@ This is my **Proof of Work (PoW)** — a concise overview of repositories I’ve
 
 ---
 
+### 🗳️ DAO Voting Platform (Featured Q1 2026)
+
+| Field | Details |
+|------|--------|
+| **Description** | Sophisticated, full-stack decentralized governance system |
+| **App** | Next.js Dashboard for proposal creation & voting |
+| **Logic** | Token-weighted voting, automated winner resolution |
+| **Tech** | Rust · Anchor · Solana · Next.js · Tailwind |
+| **Repo** | https://github.com/Harshbhargav45/dao_voting |
+
+---
+
+### 🔄 AMM: Automated Market Maker
+
+| Field | Details |
+|------|--------|
+| **Description** | Decentralized exchange protocol on Solana |
+| **Mechanism** | Constant Product Formula (x * y = k) |
+| **Features** | Liquidity pools, on-chain price discovery, swaps |
+| **Tech** | Rust · Anchor · Solana |
+| **Repo** | https://github.com/Harshbhargav45/amm |
+
+---
+
+### 📈 Quadratic Funding
+
+| Field | Details |
+|------|--------|
+| **Description** | Democratic public goods funding mechanism |
+| **Algorithm** | Rust implementation of the QF distribution formula |
+| **Features** | Project registration, community donation pools |
+| **Tech** | Rust · Anchor · Solana |
+| **Repo** | https://github.com/Harshbhargav45/quadratic_funding |
+
+---
+
+### 📦 TurbinePB_Q126_Harshbhargav45
+
+| Field | Details |
+|------|--------|
+| **Description** | Monorepo of advanced Solana, Anchor, and DeFi protocols |
+| **Projects** | Staking · Dice · AMM · DAO · QF · Vault · Escrow |
+| **Tech** | Rust · Anchor · Solana · Surfpool |
+| **Repo** | https://github.com/Harshbhargav45/TurbinePB_Q126_Harshbhargav45 |
+
+---
+
 ### 🎮 PokeChess (Featured Project)
 
 | Field | Details |
@@ -28,18 +75,6 @@ This is my **Proof of Work (PoW)** — a concise overview of repositories I’ve
 | **Concepts** | Game state accounts, instruction flow, validation |
 | **Tech** | Rust · Anchor · Solana |
 | **Repo** | https://github.com/Harshbhargav45/poke-chess |
-
----
-
-### 📦 TurbinePB_Q126_Harshbhargav45
-
-| Field | Details |
-|------|--------|
-| **Description** | Monorepo containing advanced Solana & Anchor development projects |
-| **Projects** | DAO Voting · Staking · AMM · Quadratic Funding · Dice · Escrow · Vault |
-| **Concepts** | PDAs, CPI, Governance logic, Constant Product AMM, QF algorithm |
-| **Tech** | Rust · Anchor · Solana · Surfpool · Next.js |
-| **Repo** | https://github.com/Harshbhargav45/TurbinePB_Q126_Harshbhargav45 |
 
 ---
 
